@@ -1,0 +1,10 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Subespacio caracter\IeC {\'\i }stico}{2}
+\contentsline {section}{\numberline {2}Campos caracter\IeC {\'\i }sticos}{3}
+\contentsline {section}{\numberline {3}Estructuras de contacto}{4}
+\contentsline {section}{\numberline {4}Distribuciones de hiperplanos}{6}
+\contentsline {section}{\numberline {5}Variedad de elementos de contacto}{8}
+\contentsline {section}{\numberline {6}Transformaciones de contacto}{9}
+\contentsline {section}{\numberline {7}Campo de Reeb}{10}
+\contentsline {section}{\numberline {8}Variedad simpl\'ectica asociada}{12}
+\contentsline {section}{\numberline {9}Geometr\IeC {\'\i }a de las $2$-formas cerradas}{14}
